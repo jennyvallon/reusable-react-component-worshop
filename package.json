@@ -1,10 +1,10 @@
 {
-  "name": "@reusable-react-components-workshop/pip",
+  "name": "@jennyvallon/pip",
   "version": "1.0.0",
   "description": "react component",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "ECHO pip"
   },
   "keywords": [
     "react",
@@ -13,5 +13,8 @@
     "reuse"
   ],
   "author": "Jenny Vallon <jennyvallon@gmail.com> (linkedin.com/in/jennyvallon)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.3.1"
+  }
 }
