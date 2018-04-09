@@ -1,0 +1,17 @@
+{
+  "name": "@reusable-react-components-workshop/pip",
+  "version": "1.0.0",
+  "description": "react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "react",
+    "reusability",
+    "components",
+    "reuse"
+  ],
+  "author": "Jenny Vallon <jennyvallon@gmail.com> (linkedin.com/in/jennyvallon)",
+  "license": "ISC"
+}
