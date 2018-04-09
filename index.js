@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Routes from '../../pages/index';
 
 export default class Pip extends Component {
