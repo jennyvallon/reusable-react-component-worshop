@@ -8,8 +8,10 @@ export default class Pip extends Component {
 
     render(){
         const styleFromProps = this.props.styles;
-        <p style={styleFromProps}>
-            🐻Pip🐻
-        </p>
+        return (
+            <p style={styleFromProps}>
+                🐻Pip🐻
+            </p>
+        )
     }
 }
