@@ -15,6 +15,7 @@
   "author": "Jenny Vallon <jennyvallon@gmail.com> (linkedin.com/in/jennyvallon)",
   "license": "ISC",
   "dependencies": {
+    "lodash.get": "4.4.2",
     "react": "16.3.1"
   }
 }
